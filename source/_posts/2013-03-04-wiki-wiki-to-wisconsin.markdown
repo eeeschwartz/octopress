@@ -6,6 +6,7 @@ layout: post
 slug: wiki-wiki-to-wisconsin
 title: 'Wiki Wiki to Wisconsin '
 wordpress_id: 1764
+featured_img: http://schwartzography.com/wp-content/uploads/2013/03/taking-the-plunge.jpg
 categories:
 - Hawaii
 - The Big Island
